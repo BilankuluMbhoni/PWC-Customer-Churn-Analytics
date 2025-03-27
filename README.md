@@ -1,7 +1,5 @@
 # PWC-Customer-Churn-Analytics
 
-# **Customer Churn Analysis: Contracts, Charges, and Retention**
-
 ## **Introduction**
 This report dives into **customer churn analysis**, focusing on **contract types** and **gender-based** client data. The goal is to understand customer behavior, retention trends, and revenue impact. The key areas of analysis include:
 - **Total Clients**
